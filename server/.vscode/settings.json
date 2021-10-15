@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "conventionalCommits.scopes": [
+    "server",
+    "web"
+  ]
+}
